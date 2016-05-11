@@ -1,5 +1,5 @@
-# ReiNand
-*The original open source N3DS CFW!*
+# Nique3DS
+*The totally unoriginal open source N3DS CFW!*
 <sub> (now with O3DS support!)</sub>
 
 
@@ -11,9 +11,6 @@ You'll need armips added to your Path. [HERE](https://www.dropbox.com/s/ceuv2qeq
     make launcher - Compiles CakeHax/CakeBrah payload
     make a9lh - Compiles arm9loaderhax payload
     make cons=[variable] - Compiles for a specific console. Variable can be either 'o3ds' or 'n3ds' (no quotes)
-
-Copy everything in 'out' folder to SD root and run!
-
 
 **Features:**
 
